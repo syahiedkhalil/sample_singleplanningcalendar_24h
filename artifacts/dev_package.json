@@ -1,0 +1,51 @@
+{
+	"id": "75a96aee-02f4-ef11-90cb-0022489d69b6",
+	"createdAt": "2025-02-26T05:31:30.883Z",
+	"createdBy": "ext-syahied.khalil@neptune-software.com",
+	"git": {
+		"remote": "https://github.com/syahiedkhalil/sample_singleplanningcalendar_24h.git"
+	},
+	"name": "sample_singleplanningcalendar_24h",
+	"description": "A sample application to change to 24H format for SinglePlaninngCalendar",
+	"ver": "25.02.26.0617",
+	"enableCICD": true,
+	"apps": [
+		{
+			"id": "44397a02-02f4-ef11-90cb-0022489d69b6",
+			"application": "sample_singleplanningcalendar_24h",
+			"title": "Sample SinglePlanningCalendar 24H Format",
+			"description": "",
+			"package": {
+				"id": "75A96AEE-02F4-EF11-90CB-0022489D69B6"
+			}
+		}
+	],
+	"api": [],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [],
+	"jsclass": [],
+	"jsscript_group": [],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [],
+	"category": [],
+	"launchpad": [],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"department": [],
+	"script_scheduler": [],
+	"wf_definition": [],
+	"connector": [],
+	"events": [],
+	"code_snippets": [],
+	"wf_determination": [],
+	"wf_taskaction": []
+}

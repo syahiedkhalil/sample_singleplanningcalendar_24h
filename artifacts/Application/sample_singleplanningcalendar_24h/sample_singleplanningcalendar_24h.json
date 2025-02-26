@@ -1,0 +1,111 @@
+{
+	"id": "44397a02-02f4-ef11-90cb-0022489d69b6",
+	"createdAt": "2025-02-26T05:25:46.806Z",
+	"createdBy": "ext-syahied.khalil@neptune-software.com",
+	"objects": [
+		{
+			"fieldNo": "d2b17b39-0814-4a13-a144-5bee5d4cbfcd",
+			"fieldName": "oShell",
+			"fieldParent": 0,
+			"fieldType": "sap.m.Shell",
+			"script": "",
+			"customComponent": false,
+			"request": [],
+			"response": [],
+			"attributes": [],
+			"data": [
+				{
+					"fieldNo": "e117d791-5846-4b59-f3ed-376c8b2a991a",
+					"fieldName": "oApp",
+					"fieldParent": "d2b17b39-0814-4a13-a144-5bee5d4cbfcd",
+					"fieldType": "sap.m.App",
+					"script": "",
+					"customComponent": false,
+					"request": [],
+					"response": [],
+					"attributes": [],
+					"data": [
+						{
+							"fieldNo": "8c7e7d6a-2cc3-402c-dcc8-dfa743f1b28e",
+							"fieldName": "oPage",
+							"fieldParent": "e117d791-5846-4b59-f3ed-376c8b2a991a",
+							"fieldType": "sap.m.Page",
+							"script": "",
+							"customComponent": false,
+							"request": [],
+							"response": [],
+							"attributes": [],
+							"data": []
+						}
+					]
+				}
+			]
+		},
+		{
+			"fieldNo": 99999,
+			"data": [
+				{
+					"fieldNo": "1a20c3cb-0385-4c8a-c5df-209868652523",
+					"fieldName": "init",
+					"fieldParent": 99999,
+					"fieldType": "neptune.Script",
+					"script": "file://script/neptune.Script/init.js",
+					"customComponent": false,
+					"filePath": "init",
+					"request": [],
+					"response": [],
+					"attributes": [],
+					"data": []
+				}
+			]
+		},
+		{
+			"fieldNo": 99998,
+			"data": []
+		}
+	],
+	"componentInterface": [],
+	"ver": "25.02.26.0532",
+	"application": "sample_singleplanningcalendar_24h",
+	"title": "Sample SinglePlanningCalendar 24H Format",
+	"description": "",
+	"enableFileStorage": false,
+	"enableManifest": false,
+	"enableStylesheet": false,
+	"enableObfuscate": false,
+	"onlyRunLaunchpad": false,
+	"disabled": false,
+	"loadLaunchpadCode": null,
+	"loadApplicationCode": null,
+	"appType": "C",
+	"ui5_m": true,
+	"ui5_f": false,
+	"ui5_table": false,
+	"ui5_tnt": false,
+	"ui5_uxap": false,
+	"ui5_chart": false,
+	"ui5_theme": "sap_horizon",
+	"ui5_version": "",
+	"ui5_language": null,
+	"ui5_url": "",
+	"cus_theme": "",
+	"css": "",
+	"compiledCss": null,
+	"header": "",
+	"manifest": "",
+	"globalScript": null,
+	"deleted": false,
+	"libHighchart": false,
+	"libHighmap": false,
+	"publicAccess": false,
+	"ui5_bootstrap": false,
+	"ui5_ionic": false,
+	"useV2AppHandler": false,
+	"compilerTarget": 3,
+	"tabWidth": null,
+	"printWidth": null,
+	"generateVersionOnActivation": false,
+	"activationHistoryCount": 0,
+	"apis": [],
+	"package": "75a96aee-02f4-ef11-90cb-0022489d69b6"
+}
